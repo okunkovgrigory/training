@@ -1,1 +1,1 @@
-echo "Hello, World!" . PHP_EOL;
+"Hello, World!"
